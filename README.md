@@ -2,8 +2,6 @@
 This project is distributed under the CC BY-NC 4.0 license.
 Whether you fork directly, modify the source code, or redistribute, you must retain the original author's attribution. Commercial profit-making actions are strictly prohibited. The author reserves the right to pursue legal liability for any infringement. (Sharing on video platforms like YouTube is supported, but you must provide the link to the original project).
 
-# Railway Platform Deployment Video Tutorial [Click to Watch](https://youtu.be/ODVbTw0wfak?si=8fWoJUCGqWFw-lxS)
-
 # 🚀 High-Speed Proxy Node Deployment Guide (Sing-box + Cloudflare Tunnel)
 
 This project provides a lightweight, highly stealthy proxy node deployment solution based on Docker containers. By integrating `sing-box` and `cloudflared`, you can easily build a secure tunnel with a single click on various cloud platforms (such as Koyeb, Render, etc.) or personal VPS instances.
